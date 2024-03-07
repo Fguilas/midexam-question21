@@ -1,0 +1,10 @@
+import json
+import yaml
+
+print("How many devices do you want to configure? 2")
+print("Enter the name of device 1: switch")
+print("Enter the IP address for switch: 1.1.1.1")
+print("Enter the subnet mask for switch: 255.255.255.0")
+print("Enter the default gateway for router: 8.8.8.8")
+print("Enter the DNS server for router: 8.8.8.8")
+print("Configuration information has been saved to network_config.json.")

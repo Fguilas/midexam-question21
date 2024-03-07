@@ -1,0 +1,15 @@
+[
+    {
+        "name": "switch",
+        "ip_address": "1.1.1.1",
+        "subnet_mask": "255.255.255.0",
+        "default_gateway": "1.1.1.255",
+        "dns_server": "8.8.8.8"
+    },
+    {
+        "name": "router",
+        "ip_address": "2.2.2.2",
+        "subnet_mask": "255.255.255.0",
+        "default_gateway": "8.8.8.8",
+        "dns_server": "8.8.8.8"
+    }
